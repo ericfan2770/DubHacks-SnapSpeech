@@ -1,2 +1,2 @@
 # SnapSpeech
-Files for the SnapSpeech project at DubHacks 2019.
+Files for 2019 DubHacks SnapSpeech Project
